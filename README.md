@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BrnCamps
+- 👀 I’m interested in Full Stack Development, UX design and UI design
+- 🌱 I’m currently learning Node.js, Typescript and React
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me email me at Brennokobra@gmail.com
+- ⚡ Fun fact: i can do backflips
